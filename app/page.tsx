@@ -8,7 +8,7 @@ export default function Home() {
           </span>
 
           <h1 className="mt-6 text-5xl font-bold text-slate-900">
-            RAG Study Assistant
+            RAG Study Assistant Pro
           </h1>
 
           <p className="mt-4 text-lg text-slate-600">
@@ -36,3 +36,4 @@ export default function Home() {
     </main>
   );
 }
+// ShiroDiff webhook test
